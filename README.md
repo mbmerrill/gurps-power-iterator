@@ -3,7 +3,7 @@ A calculator for GURPS Powers that includes the ability to iterate over many mod
 
 # Context
 
-Steve Jackson Games produced <a href="http://www.sjgames.com/gurps/books/powers/">GURPS Powers</a>, which provided a detailed system for creating your own powers for GURPS by taking existing advantages and applying enhancements and limitations.
+Steve Jackson Games produced <a href="http://www.sjgames.com/gurps/books/powers/">GURPS Powers</a>, which provided a detailed system for creating your own abilities for GURPS by taking existing advantages and applying enhancements and limitations.
 
 # What Does This Tool Do?
 
