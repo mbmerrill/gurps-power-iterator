@@ -5,7 +5,7 @@ A calculator for GURPS Powers that includes the ability to iterate over many mod
 
 Steve Jackson Games produced <a href="http://www.sjgames.com/gurps/books/powers/">GURPS Powers</a>, which provided a detailed system for creating your own powers for GURPS by taking existing advantages and applying enhancements and limitations.
 
-# What Does This Do?
+# What Does This Tool Do?
 
 There are lots of enhancements and limitations, and with the math involved, it's not always obvious what effect changing your enhancement and limitation selections will have on the final cost of your power.  Additionally, it's occasionally useful to see different "versions" of your power as you're tinkering with it - especially if you're building a "tiered" power (one with differing effectiveness for differing cost).
 
